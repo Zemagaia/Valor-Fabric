@@ -14,7 +14,7 @@ Credits to the awesome folks at [Valor](https://valorserver.com), for keeping it
 Special thanks to Omniraptyr, the creator of the original Realms Resolution/Vengeance of the Risen. 
 
 
-## FAQ (What would probably be frequently asked probably)
+## FAQ (What will probably be frequently asked anyway)
 
 **Q:** What compelled you to make this mod?
 
